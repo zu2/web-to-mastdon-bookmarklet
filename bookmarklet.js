@@ -1,0 +1,1 @@
+javascript:window.open('https://MASTDON-SERVER-NAME/share?visibility=public&text=%27+encodeURIComponent(((window.getSelection().toString().length>0)?(%27"%27+window.getSelection().toString()+%27"%27+"\r\n----\r\n"):"")+%27"%27+document.title+%27"%27+"\r\n"+document.URL));
